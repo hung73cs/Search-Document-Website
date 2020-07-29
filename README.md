@@ -4,6 +4,7 @@ Tìm kiếm tài liệu phân tích và thiết kế thuật toán
 <h1>Yêu cầu</h1>
 <ul>
     <li>Python 2</li>
+    <li>Javascript</li>
 </ul>
 
 
